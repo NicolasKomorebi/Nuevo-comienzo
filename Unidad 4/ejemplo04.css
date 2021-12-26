@@ -1,0 +1,28 @@
+h1 {text-transform: uppercase;}
+h2{background-color: blueviolet;}
+
+P{font-size: 20px;
+color: seagreen;}
+
+.destacados {color: sienna;
+font-style: initial;}
+
+#buenas {
+    width: 300px;
+    background-color: khaki;
+    text-align:center ;
+    padding: 20px 0;  
+    border: 2px dashed red;
+    margin-left: 200px;
+}
+
+#buenas:hover{
+    background-color: hotpink;
+    cursor: pointer;
+
+}
+
+#buenas a:hover{
+    color: lawngreen;
+    text-decoration: none;
+}
